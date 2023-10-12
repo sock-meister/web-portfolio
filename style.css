@@ -1,0 +1,39 @@
+.container-main {
+  background-color: #232d3f;
+  border-radius: 20px;
+  padding-bottom: 50px;
+  border: 5px;
+  border-style: solid;
+  border-color: #008170;
+}
+.middle-container {
+  text-align: center;
+}
+.me {
+  border-radius: 10%;
+}
+.navbar {
+  justify-content: center;
+}
+.project-thumbnail {
+  width: auto;
+  border-radius: 5px;
+}
+.b-example-divider {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #008170;
+  border: solid rgba(0, 0, 0, 0.15);
+  border-width: 1px 0;
+  box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+    inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
+  border-radius: 100%;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #005b41;
+}
